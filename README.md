@@ -5,7 +5,7 @@ I do have one thing that some people may consider a disadvantage (I don't see it
 
 I run these boxes on my own house and am fully confident in their quality, but with how things go in todays world I have to make the following statement.  Please do not think I am trying to be rude, I am just trying to protect myself.
 
-***Please build at your own risk! I am not liable for any damages to any items or equipment caused by building/operating the items described. I am also not liable for any injuries that you or others may incur during the manufactor or operation of the items descirbed. You are responsible to make sure you do not exceed the current carrying capabilities of any wire or outlet, etc...  When following these instruction you accept soul responsibility for any injuries or damages incurred to yourself or others.***
+***Please build at your own risk! I am not liable for any damages to any items or equipment caused by building/operating the items described. I am also not liable for any injuries that you or others may incur during the manufactor or operation of the items descirbed. You are responsible to make sure you do not exceed the current carrying capabilities of any wire or outlet, etc...  When following these instructions you accept soul responsibility for any injuries or damages incurred to yourself or others.***
 
 The first ZIP file contains the code to control up to 254 outlets (32 boxes, 31 with 8 outlets, 1 with 6 outlets), but will require modification to the Arduino IDE.
 
