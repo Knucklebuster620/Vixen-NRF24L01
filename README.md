@@ -12,3 +12,9 @@ The first ZIP file contains the code to control up to 254 outlets (32 boxes, 31 
 The second ZIP file contains the code to control up to 56 outlets (7 Boxes 8 outlets each) without the need to modify the Arduino IDE.
 
 The third ZIP file contains the files to modify the Arduino IDE for the 254 outlet code.  (only tested on Arduino IDE 1.8.6)
+
+The fourth ZIP file contains the parts list for the FM transmitter I used for my light show.
+
+The fifth ZIP file contains the parts list for the Vixen-NRF24L01 Transmitters and Receivers.
+
+I will eventually make a YouTube video showing how I assembled everything.
